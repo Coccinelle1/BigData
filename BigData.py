@@ -22,10 +22,10 @@ import matplotlib.pyplot as plt
 
 hastag = "#BigData"
 
-consumer_key = 'tlOGNKHjOHYuQ2ZYXOJtdBWit'
-consumer_secret = 'siwK4cP3UpdV2DImLZmGWMnxxzW8ye0KmUKJtTECr2zZlZdp1G'
-access_token = '860209219135565826-EOAP7QfjtXdmd1xejlKjYvArj39LFfV'
-access_token_secret = 'KNGJMjOLOb0Kd5SOTuvqkt4sBQSHLxNFUHb7q7M1xSxl2'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 # In[3]:
